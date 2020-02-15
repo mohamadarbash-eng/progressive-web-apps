@@ -1,0 +1,12 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
